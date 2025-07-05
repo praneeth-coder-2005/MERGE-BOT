@@ -4,8 +4,7 @@ hachoir
 Pillow
 psutil
 pymongo
-Pyrogram
-pyromod
+pyrofork
 python-dotenv
 requests
 TgCrypto
