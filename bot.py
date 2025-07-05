@@ -10,6 +10,7 @@ import shutil
 import time
 
 import psutil
+import pyromod
 from PIL import Image
 from pyrogram import Client, filters,enums
 from pyrogram.errors import (
