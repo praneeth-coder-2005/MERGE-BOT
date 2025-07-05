@@ -12,6 +12,8 @@ import time
 import psutil
 import pyromod
 from PIL import Image
+# ✅ Correct imports
+from pyromod import Client
 from pyromod import Client, filters,enums
 from pyrogram.errors import (
     FloodWait,
